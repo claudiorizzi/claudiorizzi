@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claudiorizzi
-- 👀 My research focues on climate finance
-- 📫 You can reach me at: crizzi@miami.edu
+- 👀 My research focuses on climate finance
+- 📫 You can reach me at: crizzi@iese.edu
 
 <!---
 claudiorizzi/claudiorizzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
